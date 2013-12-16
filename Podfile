@@ -1,4 +1,4 @@
-platform :ios, '6.0'
-pod 'JSQSystemSoundPlayer'
+platform :ios, '5.0'
+# pod 'JSQSystemSoundPlayer'
 
 link_with 'JSMessagesDemo', 'JSMessagesDemoTests'
